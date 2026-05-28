@@ -1,1 +1,5 @@
-# CSCI271_GitIntro_MilesCastro
+# My First GitHub Repository
+This is my very first repository on GitHub!
+**Author:** Miles Anthony Castro
+**Date Created:** May 27, 2026
+**Purpose:** Practicing GitHub basics, including creating a repository and a README file.
