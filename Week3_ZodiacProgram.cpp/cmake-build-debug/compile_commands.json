@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/milescastro/CLionProjects/Week3_ZodiacProgram.cpp/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Week3_ZodiacProgram_cpp.dir/main.cpp.o -c /Users/milescastro/CLionProjects/Week3_ZodiacProgram.cpp/main.cpp",
+  "file": "/Users/milescastro/CLionProjects/Week3_ZodiacProgram.cpp/main.cpp",
+  "output": "/Users/milescastro/CLionProjects/Week3_ZodiacProgram.cpp/cmake-build-debug/CMakeFiles/Week3_ZodiacProgram_cpp.dir/main.cpp.o"
+}
+]
